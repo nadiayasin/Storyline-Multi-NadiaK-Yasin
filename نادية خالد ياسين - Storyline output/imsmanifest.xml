@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6fEosKjOOKq_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">نادية خالد ياسين</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">نشاط 1</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="نادية_خالد_ياسين_ORG">
+    <organization identifier="نادية_خالد_ياسين_ORG">
+      <title>نادية خالد ياسين</title>
+      <item identifier="نادية_خالد_ياسين_SCO" isvisible="true" identifierref="__6fEosKjOOKq_course_id_RES">
+        <title>نادية خالد ياسين</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6fEosKjOOKq_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6SoaBBXCMnF_80_DX1052_DY1052.jpg" />
+      <file href="mobile/6SoaBBXCMnF_80_DX1052_DY1052_CX544_CY694.jpg" />
+      <file href="story_content/660yxCRqqaB_80_DX880_DY880.swf" />
+      <file href="mobile/660yxCRqqaB_80_DX880_DY880_CX660_CY277.png" />
+      <file href="story_content/6RHhYZ8hlDl_80_DX796_DY796.swf" />
+      <file href="mobile/6RHhYZ8hlDl_80_DX796_DY796_CX468_CY597.png" />
+      <file href="story_content/6M3T9qQi4Ez_80_DX1440_DY1440.swf" />
+      <file href="mobile/6M3T9qQi4Ez_80_DX1440_DY1440_CX1080_CY472.png" />
+      <file href="story_content/6GTVEDWzzIH_80_DX732_DY732.jpg" />
+      <file href="mobile/6GTVEDWzzIH_80_DX732_DY732_CX549_CY300.jpg" />
+      <file href="story_content/6fdtOTEGQo3_80_DX618_DY618.swf" />
+      <file href="mobile/6fdtOTEGQo3_80_DX618_DY618_CX155_CY463.png" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/user.js" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/TLFFactory.swf" />
+      <file href="story_content/slides/6bdo3hfWnNB.swf" />
+      <file href="story_content/slides/6dI7zrpp6Eq.swf" />
+      <file href="story_content/slides/5oaxhGYDmnc.swf" />
+      <file href="story_content/slides/61zYBXMu6a8.swf" />
+      <file href="story_content/data.swf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5oaxhGYDmnc.js" />
+      <file href="html5/data/js/61zYBXMu6a8.js" />
+      <file href="html5/data/js/6bdo3hfWnNB.js" />
+      <file href="html5/data/js/6dI7zrpp6Eq.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_flash.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="index_lms_flash.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
